@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Prover",
+  "base_artist": "milet",
+  "createdAt": "2026-03-23T07:02:46.219977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prover",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/01_Prover_milet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Prover",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/02_Prover_milet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prover",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/03_Prover_milet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Prover",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/04_Prover_milet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prover(Live at 日本武道館) - Prover Live at Nippon Budoukan",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/05_Prover(Live_at_日本武道館)_-_Prover_Live_at_Nippon_Budoukan_milet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prover(Live at 日本武道館)",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/06_Prover(Live_at_日本武道館)_milet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jeg prøver igen",
+      "artist": "Danseorkestret",
+      "has_synced": false,
+      "path": "select/07_Jeg_prøver_igen_Danseorkestret.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jeg prøver igen",
+      "artist": "Danseorkesteret",
+      "has_synced": false,
+      "path": "select/08_Jeg_prøver_igen_Danseorkesteret.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "De Prøver",
+      "artist": "Artigeardit",
+      "has_synced": true,
+      "path": "select/09_De_Prøver_Artigeardit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prover",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Prover_milet.txt"
+    }
+  ]
+}
